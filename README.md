@@ -8,24 +8,3 @@
 3. open the testmodel.py.
 4. The file contains the instructions to get you running. 
 
-
-
-## Running Tests
-
-To run tests, run the following command
-
-```bash
-  npm run test
-```
-
-
-## Usage/Examples
-
-```javascript
-import Component from 'my-project'
-
-function App() {
-  return <Component />
-}
-```
-
